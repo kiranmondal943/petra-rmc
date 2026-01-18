@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kani201012.github.io/petra-concrete-riyadh/sitemap.xml
